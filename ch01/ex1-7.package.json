@@ -1,0 +1,8 @@
+// 코드 1-7 전역 범위에 설치하지 않은 웹팩 번들링 설정
+
+...
+"scripts": {
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+},
+...
